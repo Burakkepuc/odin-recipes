@@ -1,0 +1,23 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace,sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: firebrick;
+}
+.recipe-lists{
+   margin: 0 auto;
+   width: 300px;
+}
+ul li{
+list-style-type: none;
+padding: 10px;
+
+}
+ul li a{
+text-decoration: none;
+cursor:pointer;
+color: brown;
+}
